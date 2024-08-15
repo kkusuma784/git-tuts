@@ -1,0 +1,1 @@
+print("Kusuma + Entri course")
